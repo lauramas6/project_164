@@ -36,7 +36,7 @@ The project follows a standard machine learning pipeline:
 - Model training
 - Hyperparameter tuning using GridSearchCV
 - Model evaluation using multiple metrics (Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrices)
-- Multimple graphs employed to display results and analysis
+- Multiple graphs employed to display results and analysis
 
 
 ## Repository Structure
@@ -52,7 +52,7 @@ The project follows a standard machine learning pipeline:
 ├── README.md
 ```
 ## Results Summary
-
+Three models were evaluated across all datasets: Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN). Overall, the Decision Tree model consistently performed best, particularly in capturing non-linear relationships and handling class imbalance. It achieved the highest accuracy across all datasets, including near-perfect performance in the weather dataset and strong results in both phishing and telemarketing tasks. Logistic Regression served as a stable baseline but struggled with complex patterns and minority class detection, while KNN performed well on cleaner datasets but was less effective on imbalanced data.
 
 ## Notes
 The notebooks include all the code and outputs along with text explanation.
