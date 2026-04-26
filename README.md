@@ -56,4 +56,4 @@ Three models were evaluated across all datasets: Logistic Regression, Decision T
 
 ## Notes
 The notebooks include all the code and outputs along with text explanation.
-The Final Report discusses the entire Methodology in depth, and discusses prior published work using the datasets employed.
+The Final Report discusses the entire Methodology in depth, analyzes the results obtained along with graphs and figures, and compares our work with prior published work.
