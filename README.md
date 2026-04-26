@@ -5,15 +5,15 @@ This repository contains the final project for Applied Machine Learning using th
 ## Authors
 Laura Mas Serra
 
-Kazi
+Kazi Islam
 
-_
+Manuel Domingo Mora
 
 
 ## Datasets Used
 This project uses the following datasets:
-- Phishing Website Detection Dataset
-- Bank Marketing Dataset
+- [Phishing Detection](https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector)
+- [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 - [Weather Forecast](https://www.kaggle.com/datasets/zeeshier/weather-forecast-dataset)
 
 \* Each dataset was selected to represent different classification challenges, including imbalanced classes, mixed feature types, and real-world noise.
