@@ -24,6 +24,7 @@ The following models were implemented using scikit-learn:
 - Logistic Regression
 - Decision Tree Classifier
 - K-Nearest Neighbors (KNN)
+  
 \* Each model was evaluated and compared across datasets using consistent preprocessing and evaluation methods.
 
 
