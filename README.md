@@ -1,5 +1,6 @@
 # CSCI 164 Final Project
-Link to repository: (https://github.com/lauramas6/project_164/)
+Link to repository: https://github.com/lauramas6/project_164/
+
 This repository contains the final project for Applied Machine Learning using the scikit-learn library. The project focuses on building, evaluating, and comparing multiple supervised learning models across different real-world datasets. The goal is to demonstrate a complete machine learning workflow, including data preprocessing, model training, hyperparameter tuning, evaluation, and comparison.
 
 
