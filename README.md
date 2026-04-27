@@ -42,9 +42,11 @@ The project follows a standard machine learning pipeline:
 ## Repository Structure
 ```text
 ├── notebooks/
-│   ├── file_dataset1.ipynb
-│   ├── file_dataset2.ipynb
+│   ├── BankMarketing.ipynb
+│   ├── phishing.ipynb
 │   ├── csci164_project_weather.ipynb
+│   ├── bankMarketing_dataset.csv
+│   ├── phishing_dataset.csv
 │
 ├── report/
 │   ├── final_report.pdf
